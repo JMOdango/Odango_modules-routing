@@ -1,0 +1,9 @@
+<app-featured-cards></app-featured-cards>
+
+<div class="row row-lg-2">
+    <app-trending-cards 
+        *ngFor="let post of posts; index as i"
+        [imageUrl]="post.imageUrl"
+        [photographer]="post.photographer"
+    ></app-trending-cards>
+</div>

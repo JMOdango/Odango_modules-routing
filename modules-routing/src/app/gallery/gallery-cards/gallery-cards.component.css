@@ -1,0 +1,12 @@
+.card{
+    margin-top:40px;
+    background: rgba(0, 0, 0, 0.507);
+}
+
+.card-title{
+    color: white;
+}
+
+.card-footer{
+    background: rgb(0, 0, 0);
+}

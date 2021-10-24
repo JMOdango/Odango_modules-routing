@@ -1,0 +1,8 @@
+body {
+    margin: 0; 
+    font-family: 'Montserrat', sans-serif;
+    background: url(../src/assets/Image/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

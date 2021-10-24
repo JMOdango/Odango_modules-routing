@@ -1,0 +1,12 @@
+.card{
+    background: none;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    height: 18em;
+}
+
+.card-text{
+    margin-top: 150px;
+}
